@@ -1,1 +1,1 @@
-# Sports-image-classification
+ # Sports-image-classification using CNN 
